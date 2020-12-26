@@ -1,12 +1,12 @@
 # WARNING
 
+I've just forked the project and updated to work with the latest version (as of Dec 2020).
+
 Plugin actually not in active development!
+
 
 # OctoPrint-FileManager
 
 ## Setup
 
-Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
-or manually using this URL:
-
-    https://github.com/Salandora/OctoPrint-FileManager/archive/master.zip
+Download as a zip and install manaully.
